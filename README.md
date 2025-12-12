@@ -1,3 +1,3 @@
-# project_3
+# Photosynthesimulation
 
-A new Flutter project.
+A Photosynthesis flutter app
