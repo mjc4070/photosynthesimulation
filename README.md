@@ -1,3 +1,3 @@
 # project_3
 
-A new Flutter
+A new Flutter project.
